@@ -15,7 +15,8 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "latest products",
+      
+            "heading": "latest products from git",
             "heading_size": "h0"
           }
         },
